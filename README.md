@@ -3,6 +3,7 @@
 <p>I'm a front end developer with a solid fundamental of HTML, CSS, and Javascript. I'm very passionate to create a visually appealing website using React JS and Tailwind CSS to transform the idea from the given design into a real website.</p>
 <p>- 🌱 I’m currently learning **AI and Machine Learning** using Python Numpy and Tensorflow framework to satisfy my curiousity about how to build an AI </p>
 <p>- 🌿 I also take interest in Data Analyst world, using SQL and Spreadsheet, to train my problem solving skills and taking insight more accurately using existing data.</p>
+<p>- ☘️ Besides, I'm currently trying to implement an AI with System On Chip, using verilog for the hardware implementation</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
